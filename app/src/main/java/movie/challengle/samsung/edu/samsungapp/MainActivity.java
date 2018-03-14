@@ -47,7 +47,7 @@ public class MainActivity extends TabActivity {
                 Toast.LENGTH_LONG)
                 .show();
     }
-
+//s
 
     }
     protected boolean isOnline()
